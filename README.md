@@ -1,2 +1,2 @@
-# Калькулятор на JavaScript.
+# Калькулятор на JavaScript(Calculator in JavaScript)
 
